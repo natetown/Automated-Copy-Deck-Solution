@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE record SYSTEM "dcr4.5.dtd"[]>
+<record name="ergwergewr_wergwerg" type="content">
+  <value>
+    <item name="COPY">
+      <value>
+        <item name="CONTENT_ID">
+          <value>
+          </value>
+        </item>
+        <item name="BUSINESS_ID">
+          <value>
+          </value>
+        </item>
+        <item name="LOCALE_ID">
+          <value>
+          </value>
+        </item>
+        <item name="APP_ID">
+          <value>
+          </value>
+        </item>
+        <item name="NAME">
+          <value>
+          </value>
+        </item>
+        <item name="TEXT">
+          <value>
+          </value>
+        </item>
+        <item name="ACTIVE">
+          <value>
+T
+	</value>
+        </item>
+        <item name="SET_NOTIFICATION">
+          <value>
+N
+	</value>
+        </item>
+        <item name="PROPERTY">
+          <value>
+            <item name="NAME">
+              <value>
+wergerg
+	</value>
+            </item>
+            <item name="VALUE">
+              <value>
+              </value>
+            </item>
+            <item name="NAME">
+              <value>
+              </value>
+            </item>
+            <item name="VALUE">
+              <value>
+              </value>
+            </item>
+            <item name="NAME">
+              <value>
+              </value>
+            </item>
+            <item name="VALUE">
+              <value>
+              </value>
+            </item>
+            <item name="NAME">
+              <value>
+              </value>
+            </item>
+            <item name="VALUE">
+              <value>
+              </value>
+            </item>
+          </value>
+        </item>
+        <item name="CONFIG_DETAILS">
+          <value>
+          </value>
+        </item>
+      </value>
+    </item>
+  </value>
+</record>

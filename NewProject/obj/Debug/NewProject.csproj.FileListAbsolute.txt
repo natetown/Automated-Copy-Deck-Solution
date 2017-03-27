@@ -1,0 +1,14 @@
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\bin\Debug\NewProject.exe.config
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\bin\Debug\NewProject.exe
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\bin\Debug\NewProject.pdb
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.csprojResolveAssemblyReference.cache
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.Properties.Resources.resources
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.csproj.GenerateResource.Cache
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.exe
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.pdb
+c:\users\nw53497\documents\visual studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.Form1.resources
+C:\Users\nw53497\Documents\Visual Studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.csproj.ResolveComReference.cache
+C:\Users\nw53497\Documents\Visual Studio 2015\Projects\NewProject\NewProject\bin\Debug\NewProject.exe.manifest
+C:\Users\nw53497\Documents\Visual Studio 2015\Projects\NewProject\NewProject\bin\Debug\NewProject.application
+C:\Users\nw53497\Documents\Visual Studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.exe.manifest
+C:\Users\nw53497\Documents\Visual Studio 2015\Projects\NewProject\NewProject\obj\Debug\NewProject.application
